@@ -1,0 +1,20 @@
+# Core
+streamlit>=1.20.0
+python-dotenv>=1.0.0
+
+# Gemini / LangChain integration (wraps Google Gemini)
+langchain-google-genai>=0.1.0
+
+# Official Google Generative AI python client (if required)
+google-generative-ai>=1.0.0
+
+# Optional utilities
+langchain>=0.0.300
+requests>=2.28.0
+
+# Development / formatting (optional)
+black==24.9.0
+flake8>=6.0.0
+
+# For local testing / typewriter effect (already in stdlib, but keep these handy)
+tqdm>=4.65.0
