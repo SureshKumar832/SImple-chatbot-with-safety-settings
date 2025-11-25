@@ -22,8 +22,3 @@ TruthLens is an interactive chatbot web app built with **Streamlit** and Google 
 - Chat history stored in `st.session_state`
 - Configurable safety settings (harassment, hate speech, sexual/dangerous content)
 - Environment-based API key management (`.env`)
-
----
-
-## 📁 Repository structure
-
