@@ -1,4 +1,4 @@
-# ⭐ TruthLens — Streamlit + Google Gemini Chatbot
+# ⭐ Streamlit + Google Gemini Chatbot
 
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/streamlit-%3E%3D1.20.0-orange.svg)](https://streamlit.io)
@@ -22,3 +22,4 @@ TruthLens is an interactive chatbot web app built with **Streamlit** and Google 
 - Chat history stored in `st.session_state`
 - Configurable safety settings (harassment, hate speech, sexual/dangerous content)
 - Environment-based API key management (`.env`)
+
