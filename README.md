@@ -11,7 +11,7 @@
 
 ## 🔖 Project Overview
 
-TruthLens is an interactive chatbot web app built with **Streamlit** and Google **Gemini (Generative AI)**. It includes configurable safety settings, a typewriter-style response animation, and chat-history persistence in `st.session_state`.
+It is an interactive chatbot web app built with **Streamlit** and Google **Gemini (Generative AI)**. It includes configurable safety settings, a typewriter-style response animation, and chat-history persistence in `st.session_state`.
 
 ---
 
@@ -22,4 +22,5 @@ TruthLens is an interactive chatbot web app built with **Streamlit** and Google 
 - Chat history stored in `st.session_state`
 - Configurable safety settings (harassment, hate speech, sexual/dangerous content)
 - Environment-based API key management (`.env`)
+
 
